@@ -1,0 +1,27 @@
+/* //this folder public is created to make any css file and use anywher */
+h1{
+    color :maroon;
+
+}
+.post{
+    background-color:blanchedalmond;
+
+}
+.user{
+    font-style: italic;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.link{
+    color: maroon;
+}
+.form{
+    background-color: burlywood;
+}
+.anchor{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(204, 224, 204);
+}
